@@ -1,33 +1,24 @@
-h1{
-  color: black
-
-}
-
 img{
-  height:50;
-  width: 50%;
+  height: 50%;
+  width:  40%;
 }
-
-body{
-  margin: auto;
-  width:60%;
-  background-color: grey;
-}
-
 a{
   text-decoration: none;
 }
-
+.heading1{
+  color: green;
+  font-style: italic;
+}
+.heading2{
+  color: green;
+  font-style: italic;
+}
+body{
+  background-color: grey;
+}
+  body{
+    background-position: center;
+  }
 p{
-  text-align: justify;
-}
-.sidebar{
-  font:caption;
-  color: yellow;
-}
-.more{
-  font-family: sans-serif;
-}
-.cool{
-  font justify-content: sans-serif;
+  color: maroon;
 }

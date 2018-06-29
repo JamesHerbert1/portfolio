@@ -1,0 +1,33 @@
+h1{
+  color: black
+
+}
+
+img{
+  height:50;
+  width: 50%;
+}
+
+body{
+  margin: auto;
+  width:60%;
+  background-color: grey;
+}
+
+a{
+  text-decoration: none;
+}
+
+p{
+  text-align: justify;
+}
+.sidebar{
+  font:caption;
+  color: yellow;
+}
+.more{
+  font-family: sans-serif;
+}
+.cool{
+  font justify-content: sans-serif;
+}
